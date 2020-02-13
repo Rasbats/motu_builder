@@ -15,5 +15,5 @@ https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:supplementary_software:cdo
 
 REQUIREMENTS
 
-    Python [2.7, 3.6 or 3.7] (https://www.python.org/downloads/)
-    Motuclient [1.8 or higher] (http://marine.copernicus.eu/faq/what-are-the-motu-and-python-requirements
+    Python [2.7, 3.6 or 3.7] https://www.python.org/downloads/
+    Motuclient [1.8 or higher] http://marine.copernicus.eu/faq/what-are-the-motu-and-python-requirements
